@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuiaBrasil</string>
+    <string name="ALIMENTACAO">ALIMENTAÇÃO</string>
+    <string name="MODA">MODA</string>
+    <string name="BELEZAESTETICA">BELEZA E ESTÉTICA</string>
+    <string name="SAUDE">SAÚDE</string>
+    <string name="EDUCACAO">EDUCAÇÃO</string>
+    <string name="BEBESCRIANCAS">BEBÊS E CRIANÇAS</string>
+    <string name="CONSTRUCOES">CONSTRUÇÕES</string>
+    <string name="PET">PET</string>
+    <string name="AUTOMOVEIS">AUTOMÓVEIS</string>
+    <string name="ESPORTES">ESPORTES</string>
+
+</resources>
