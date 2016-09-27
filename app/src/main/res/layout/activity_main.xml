@@ -26,6 +26,7 @@
         android:layout_marginTop="70dp"
         android:layout_marginRight="50dp"
         android:layout_marginLeft="50dp"
+        android:paddingLeft="20dp"
         android:background="@drawable/shape_edit_text"/>
 
     <EditText
@@ -34,6 +35,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginRight="50dp"
         android:layout_marginLeft="50dp"
+        android:paddingLeft="20dp"
         android:background="@drawable/shape_edit_text"/>
 
 
